@@ -1,4 +1,4 @@
-# FastAPI Project 🚀
+# FastAPI🚀
 
 This repository demonstrates how to build a **FastAPI web application** using core Python concepts, **Pydantic models**, and **template rendering** with HTML and CSS. It's a great starting point to understand how FastAPI handles routing, validation, and frontend integration.
 
